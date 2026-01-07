@@ -1,5 +1,9 @@
 # empirical-likelihood-gps
 
+For the manuscript titled: "Implementing Empirical Likelihood Within the Causal Inference Framework to Study Causal Effects of Air Pollution on Reproductive Development"
+
+
+
 Code Availability and Scope
 
 This repository contains R code supporting the manuscript
