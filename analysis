@@ -1,0 +1,9 @@
+# Analysis Scripts
+
+This folder contains scripts that run simulations and bootstrap analyses.
+
+Typical workflow:
+1. `simulate_data.R` – generate simulated datasets
+2. `run_bootstrap.R` – apply estimators and bootstrap inference
+
+Generated data and results are not tracked in this repository.
